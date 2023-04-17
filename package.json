@@ -10,5 +10,19 @@
 	"scripts": {
 		"dev": "nodemon app.js",
 		"start": "node app.js"
-	}
+	},
+	"name": "basic-chatroom",
+	"description": "The source code is distributed under the GPL-3.0 license. See LICENSE.md for more information.",
+	"version": "1.0.0",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rvdegroen/basic-chatroom.git"
+	},
+	"author": "Roshnie de Groen",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/rvdegroen/basic-chatroom/issues"
+	},
+	"homepage": "https://github.com/rvdegroen/basic-chatroom#readme"
 }
