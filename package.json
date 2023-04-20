@@ -1,12 +1,4 @@
 {
-	"dependencies": {
-		"ejs": "^3.1.9",
-		"express": "^4.18.2",
-		"socket.io": "^4.6.1"
-	},
-	"devDependencies": {
-		"nodemon": "^2.0.22"
-	},
 	"scripts": {
 		"dev": "nodemon app.js",
 		"start": "node app.js"
@@ -24,5 +16,13 @@
 	"bugs": {
 		"url": "https://github.com/rvdegroen/basic-chatroom/issues"
 	},
-	"homepage": "https://github.com/rvdegroen/basic-chatroom#readme"
+	"homepage": "https://github.com/rvdegroen/basic-chatroom#readme",
+	"dependencies": {
+		"ejs": "^3.1.9",
+		"express": "^4.18.2",
+		"socket.io": "^4.6.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	}
 }
